@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/manvith1122-glitch/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manvith1122-glitch/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/manvith1122-glitch/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 ## Heap (Priority Queue)
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manvith1122-glitch/Leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/manvith1122-glitch/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
