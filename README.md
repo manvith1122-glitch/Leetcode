@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manvith1122-glitch/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/manvith1122-glitch/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manvith1122-glitch/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/manvith1122-glitch/Leetcode/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manvith1122-glitch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/manvith1122-glitch/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manvith1122-glitch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manvith1122-glitch/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/manvith1122-glitch/Leetcode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
