@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/manvith1122-glitch/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/manvith1122-glitch/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manvith1122-glitch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/manvith1122-glitch/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manvith1122-glitch/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/manvith1122-glitch/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/manvith1122-glitch/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manvith1122-glitch/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
